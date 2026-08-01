@@ -102,7 +102,7 @@ Detect repeated failed SSH authentication attempts.
 - Threat intelligence integration
 - Multi-server monitoring
 - Correlation searches
-- Splunk Enterprise Security (ES)
+
 
 ---
 
