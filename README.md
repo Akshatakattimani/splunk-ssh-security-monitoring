@@ -200,19 +200,17 @@ Incident Investigation
 
 ## SSH Brute Force Detection Alert
 
-![SSH Brute Force Detection](screenshots/brute_force_alert.png)
-
+![SSH Brute Force Detection Alert](screenshots/ssh_brute_force_alert.png)
 ---
 
 ## SSH Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
+![SSH Dashboard Overview](screenshots/ssh_dashboard_overview.png)
 ---
 
 ## SSH Activity Analysis
 
-![Activity Analysis](screenshots/activity_analysis.png)
+screenshots/ssh_dashboard_overview.png
 
 ---
 
