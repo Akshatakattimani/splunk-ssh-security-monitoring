@@ -208,9 +208,8 @@ Incident Investigation
 ![SSH Dashboard Overview](screenshots/ssh_dashboard_overview.png)
 ---
 
-## SSH Activity Analysis
 
-screenshots/ssh_dashboard_overview.png
+
 
 ---
 
