@@ -256,16 +256,19 @@ This project demonstrates how Splunk Enterprise can be used to monitor SSH authe
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Akshata Kattimani**
+ SOC Analyst
 
-Cybersecurity Intern
+### Connect with me
 
-SOC Analyst Aspirant
+- LinkedIn: https://www.linkedin.com/in/akshata-kattimani-300997397/
+- GitHub: https://github.com/Akshatakattimani
 
 ---
 
-# 📄 License
+## ⭐ If you found this project useful
 
-This project is licensed under the MIT License.
+If you like this project, consider giving it a ⭐ on GitHub.
+
